@@ -1,0 +1,4 @@
+Name		Department	
+Emmanuel	Computer Science
+Alfred		Telecom
+John		BIT
